@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 vc# Logs
+=======
+# Logs
+>>>>>>> e7e02faca93e258723090409b6bb0f57b34decc2
 logs
 *.log
 npm-debug.log*
