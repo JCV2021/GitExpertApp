@@ -1,20 +1,12 @@
 {
-<<<<<<< HEAD
   "name": "gif-expert-app",
-=======
-  "name": "gifexpertapp",
->>>>>>> e7e02faca93e258723090409b6bb0f57b34decc2
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-<<<<<<< HEAD
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-=======
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
->>>>>>> e7e02faca93e258723090409b6bb0f57b34decc2
     "preview": "vite preview"
   },
   "dependencies": {
@@ -22,7 +14,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-<<<<<<< HEAD
     "@types/react": "^18.0.37",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^4.0.0",
@@ -31,15 +22,5 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "vite": "^4.3.9"
-=======
-    "@types/react": "^18.2.15",
-    "@types/react-dom": "^18.2.7",
-    "@vitejs/plugin-react": "^4.0.3",
-    "eslint": "^8.45.0",
-    "eslint-plugin-react": "^7.32.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-react-refresh": "^0.4.3",
-    "vite": "^4.4.5"
->>>>>>> e7e02faca93e258723090409b6bb0f57b34decc2
   }
 }
